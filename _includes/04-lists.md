@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Emoji
+  - :blush:
+  - :alien:
+
+1. teste
+ 
